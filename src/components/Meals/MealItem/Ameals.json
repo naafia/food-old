@@ -1,0 +1,23 @@
+{
+    "m1" : {
+      "description" : "Finest Fish and veggies",
+      "name" : "sushi",
+      "price" : 22.99
+    },
+    "m2" : {
+      "description" : "Finest mutton and masalas",
+      "name" : "Biriyani",
+      "price" : 100.25
+    },
+    "m3" : {
+      "description" : "Juicy and tender Chicken",
+      "name" : "Lollypop",
+      "price" : 83.75
+    },
+    "m4" : {
+      "description" : "kpm marriage spl",
+      "name" : "kalari",
+      "price" : 124.12
+    }
+  }
+  
